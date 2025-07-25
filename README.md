@@ -1,3 +1,4 @@
+ HEAD
 # 🧑‍💻 Jitsi Meeting Link Generator (React)
 
 This is a simple React component that allows users to generate and join a **Jitsi Meet** video call with a unique meeting link. It's perfect for use in real estate, online consultation, or any domain requiring quick video meetings.
@@ -42,3 +43,7 @@ This project uses Jitsi Meet, which is free and open-source. You are free to use
 📬 Contact
 
 For questions or contributions, feel free to open an issue or submit a pull request.
+
+# MEET
+This is a simple Jitsi Meet video call generator built with React. It allows users to instantly create and join private video meetings using a unique link powered by the open-source Jitsi Meet platform.
+ d15ca13bb3360965baf9a415e55c41bdb94cb0e0
