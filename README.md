@@ -46,4 +46,4 @@ For questions or contributions, feel free to open an issue or submit a pull requ
 
 # MEET
 This is a simple Jitsi Meet video call generator built with React. It allows users to instantly create and join private video meetings using a unique link powered by the open-source Jitsi Meet platform.
- d15ca13bb3360965baf9a415e55c41bdb94cb0e0
+
